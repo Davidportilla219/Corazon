@@ -4,7 +4,7 @@ import numpy as np
 
 # Cargar modelo y scaler
 model = joblib.load("svc_model.jb")
-scaler = joblib.load("Scaler.jb")
+scaler = joblib.load("scaler.jb")
 
 # Título y subtítulo
 st.title("Detector de problemas cardiacos")
