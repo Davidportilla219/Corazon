@@ -24,9 +24,9 @@ if st.button("Predecir"):
 
     if prediction == 0:
         st.success("No sufrirá del corazón ❤️")
-        st.image("https://img.freepik.com/vector-gratis/hombre-feliz-dibujos-animados_52683-56651.jpg", 
+        st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fpersona-feliz&psig=AOvVaw0ILTB-AXf3pLY6QHiiacZr&ust=1759438731007000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiPitbzg5ADFQAAAAAdAAAAABAE", 
                  caption="Persona feliz")
     else:
         st.error("Sufrirá del corazón 💔")
-        st.image("https://www.topdoctors.mx/files/Image/large/f54aa2d6eae7245e58f87d4f62a4a16b.jpg", 
+        st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ecured.cu%2FMuerte&psig=AOvVaw3TaRjR41snFYdSUPTFnmX7&ust=1759438762399000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDKgubzg5ADFQAAAAAdAAAAABAL", 
                  caption="Problema cardíaco")
