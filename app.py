@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Cargar modelo y scaler
-model = joblib.load("Spacer.jb")
+model = joblib.load("svc_model.jb")
 scaler = joblib.load("Scaler.jb")
 
 # Título y subtítulo
